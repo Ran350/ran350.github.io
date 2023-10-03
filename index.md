@@ -1,5 +1,5 @@
 ---
 layout: redirected
 sitemap: false
-redirect_to: https://dentime.anozon.me
+redirect_to: https://ran350.jp
 ---
